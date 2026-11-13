@@ -82,7 +82,7 @@ SELECT * FROM monthly_summary;
 ```
 
 > The short link is just a convenience — the database itself lives at the release asset URL, which works in `ATTACH` directly (use this form in your own README):
-> `https://github.com/lukebarousse/dbt_Analytics_Engineering_Course/releases/download/warehouse/prod.duckdb`
+> `https://github.com/mutithegreat/dbt-duckdb-pipeline/releases/download/warehouse/prod.duckdb`
 
 ---
 
@@ -90,7 +90,7 @@ SELECT * FROM monthly_summary;
 
 Docs are generated with `dbt docs generate` and published to GitHub Pages:
 
-**→ [lukebarousse.github.io/dbt_Analytics_Engineering_Course/project1/](https://lukebarousse.github.io/dbt_Analytics_Engineering_Course/project1/)**
+**→ [mutithegreat.github.io/dbt_Analytics_Engineering_Course/project1/](https://mutithegreat.github.io/dbt-duckdb-pipeline/)**
 
 The site shows:
 
